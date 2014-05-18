@@ -1,0 +1,25 @@
+.content li {
+    margin: 0 0 1em 0;
+    padding: 0 1em;
+    list-style: none;
+    background-color: #eee;
+    overflow: auto;
+}
+
+.info {
+    display: inline-block;
+    padding: .4em .5em;
+    font-size: .8em;
+    line-height: 1em;
+    color: #fff;
+    border-radius: 3px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.latest {
+    background-color: #38B27F;
+}
+
+.beta {
+    background-color: #D11E10;
+}
