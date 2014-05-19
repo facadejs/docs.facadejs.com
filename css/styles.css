@@ -23,3 +23,7 @@
 .beta {
     background-color: #D11E10;
 }
+
+.dim {
+    opacity: 0.5;
+}
